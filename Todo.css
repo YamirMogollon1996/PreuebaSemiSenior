@@ -1,0 +1,75 @@
+.manager{
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+.center_up{
+
+    /* border: 1px solid black; */
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.FontainerCenter{
+
+    width: 80%;
+
+    padding: 1em;
+    margin-top: -10em;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 1em;
+}
+.Julis{
+    width: 60%;
+}
+.centerD{
+    display: flex;
+    flex-direction: column;
+  margin: 1em;
+}
+.Los{
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 1em;
+}
+.buton{
+    width: 40%;
+    margin: auto;
+    padding: 1em;
+    margin-top: 2em;
+    border: none;
+    border: 1px solid whitesmoke;
+    background-color: #ff5500;
+    color: white;
+    font-weight: 900;
+
+}
+
+.buton:hover{
+
+        
+}
+.Jis{
+
+    background-color: rgb(156, 103, 103);
+}
+
+.marvel{
+    border: 1px solid rgb(179, 179, 187);
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 2em;
+    padding: 1em;
+    border-radius: 5px;
+    
+}
+.CenterUff{
+
+    border: 1px solid black;
+    text-align: center;
+}
